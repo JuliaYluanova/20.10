@@ -71,18 +71,16 @@ body * {
     align-items: center;
 }
 
-.header-navigation{
+.navigation{
     list-style: none;
     display: flex;
 }
 
-.header-navigation__iten{
-    margin-right: 47px;
-}
 
 .header-navigation__iten {
     text-decoration: none;
     color: white;
+    margin-right: 47px;
 }
 
 .hero{
@@ -143,7 +141,6 @@ body * {
     padding-top: 176px;
  }
 
- 
  .footer-content{
     display: flex;
     justify-content: space-between;
@@ -151,16 +148,8 @@ body * {
     align-items: center;
  }
 
- .footer-navigation{
-    list-style: none;
-    display: flex;
-}
-
-.footer-navigation__iten{
-    margin-right: 47px;
-}
-
 .footer-navigation__iten {
+    margin-right: 47px;
     text-decoration: none;
     color: white;
 }
