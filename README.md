@@ -1,4 +1,4 @@
-Валидность верстки сайта делалась с помощью сайта https://validator.w3.org .
+Валидность верстки сайта делалась с помощью сайта https://validator.w3.org ,через validate by direct input.
 
 Что касается семантики - исправила в теге checkbox  div на тег  li.
 
