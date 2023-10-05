@@ -26,7 +26,7 @@
 
 .item_admiral{            
     width: 244px;
-    margin-left: 22px;   
+    margin-left: 52px;   
 }
 
 .item_w{
@@ -115,6 +115,7 @@
     line-height: 27px;
     color: #FFFFFF;
     margin-bottom: 42px;
+    
 } 
 
 .desktop-header-title{   /*City:*/
@@ -134,6 +135,7 @@
     line-height: 21px;
     line-height: 120%;
     color: rgba(255, 255, 255, 1); 
+    
 }
 
 .arrow {         /* dekstop-3*/
