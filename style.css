@@ -49,18 +49,13 @@ body * {
     line-height: 15px;
     text-align: center;
     color: #FFFFFF;
-
 }
 
-.logo{
-    color: #E3B873;
-}
-
-.logo1{
+.logo1, .logo{
     color: #E3B873; 
 }
 
-.menu{
+.menu, .menu1{
     background-color: black;
 }
 
@@ -68,8 +63,9 @@ body * {
     display: flex;
     justify-content: space-between;
     height: 83px;
-    align-items: center;
+    align-items: center; 
 }
+
 
 .header-navigation{
     list-style: none;
@@ -143,7 +139,6 @@ body * {
     padding-top: 176px;
  }
 
- 
  .footer-content{
     display: flex;
     justify-content: space-between;
@@ -156,11 +151,11 @@ body * {
     display: flex;
 }
 
-.footer-navigation__iten{
+.footer-navigation__iten {
     margin-right: 47px;
 }
 
-.footer-navigation__iten {
+ .footer-navigation__iten{
     text-decoration: none;
     color: white;
 }
